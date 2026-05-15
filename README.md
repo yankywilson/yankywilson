@@ -43,5 +43,7 @@ When an intrusion hits, I work the artifacts — logs, memory, network telemetry
 
 ## 📜 Certifications
 
-🏅 CySA+ · Security+ · CTIA · CSA · ISC2 CC
+## 📜 Certifications
+
+🏅 CompTIA CySA+ · CompTIA Security+ · EC-Council Certified Threat Intelligence Analyst (C|TIA) · EC-Council Certified SOC Analyst (C|SA) · ISC2 Certified in Cybersecurity (CC)
 
