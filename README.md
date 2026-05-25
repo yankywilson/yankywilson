@@ -35,15 +35,13 @@ When an intrusion hits, I work the artifacts — logs, memory, network telemetry
 📌 Pinned Work
 
 * 🧬 `interlock-aa25-203a-analysis` — Independent reverse engineering of CISA AA25-203A. Fifteen documented gaps between advisory and the in-the-wild Interlock encryptor; Matrix-family lineage finding; structural YARA rules; 10-phase verification methodology.
-* 🇺🇦 `gamybear-cert-ua-18329-analysis` — 15+ binary-level corrections to CERT-UA#18329 GAMYBEAR. Persistence misattribution, TLS implementation failure, and IOC validation against the actual ieupdater.exe loader.
+* 🐻 🇺🇦 `gamybear-cert-ua-18329-analysis` — 15+ binary-level corrections to CERT-UA#18329 GAMYBEAR. Persistence misattribution, TLS implementation failure, and IOC validation against the actual ieupdater.exe loader.
 * 🎣 `sneaky2fa-kc-cluster` — OSINT analysis of an active Sneaky2FA PhaaS operator running 117 origin servers from Kansas City, MO. Documents aged-domain acquisition tradecraft for enterprise mail-filter bypass.
 * 🔴 `screenconnect-rogue-tenant-investigation` — CTI and detections for rogue ScreenConnect tenant abuse
 * 🌐 `DNS-Filter-Bypass-Forensics-Toolkit` — PowerShell forensics for DNS evasion on managed Windows fleets
-* 🇮🇷 `iranian-apt-m365-threat-intel` — Hunts and intel on APT33 / Peach Sandstorm in M365 and Entra ID
+* 🔴 🇮🇷 `iranian-apt-m365-threat-intel` — Hunts and intel on APT33 / Peach Sandstorm in M365 and Entra ID
 
 ---
-
-## 📜 Certifications
 
 ## 📜 Certifications
 
