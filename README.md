@@ -34,7 +34,7 @@ When an intrusion hits, I work the artifacts — logs, memory, network telemetry
 
 📌 Pinned Work
 
-* 🧬 `interlock-aa25-203a-analysis` — Independent reverse engineering of CISA AA25-203A. Fifteen documented gaps between advisory and the in-the-wild Interlock encryptor; Matrix-family lineage finding; structural YARA rules; 10-phase verification methodology.
+* 🍩 `donutcluster-AS138995` — Novel DonutLoader variant. Custom stego C2 on TCP/7070, reflective DLL loader, recoverable CFG1 config, 14-host infrastructure cluster. YARA, Suricata, IOCs.
 * 🐻 🇺🇦 `gamybear-cert-ua-18329-analysis` — 15+ binary-level corrections to CERT-UA#18329 GAMYBEAR. Persistence misattribution, TLS implementation failure, and IOC validation against the actual ieupdater.exe loader.
 * 👻 `ghost-cring-defender-toolkit` — Defender toolkit derived from binary-level RE of CISA AA25-050A Cring.exe. 25+ documented advisory gaps including MD5-only hash representation, missing binary-internal IOCs, and family-level TTPs not enacted by the analyzed sample. Multi-platform detection (YARA, Sigma, KQL, SPL, EQL, FQL), STIX 2.1 IOC bundle, and MITRE ATT&CK Navigator gap layer.
 * 🎣 `sneaky2fa-kc-cluster` — OSINT analysis of an active Sneaky2FA PhaaS operator running 117 origin servers from Kansas City, MO. Documents aged-domain acquisition tradecraft for enterprise mail-filter bypass.
