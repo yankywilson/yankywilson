@@ -34,6 +34,7 @@ When an intrusion hits, I work the artifacts — logs, memory, network telemetry
 
 📌 Pinned Work
 
+* 🛰️ `jdy-botnet-threat-analysis` — MIPS64 implant RE and infrastructure CTI on the JDY recon botnet (Volt Typhoon / KV lineage, MITRE G1017). Recovered AES-128-CBC tasking (correcting the published AES-256 key as IV||KEY), mapped the jdyfj relay cluster, working decryptor + Sigma/YARA + tiered reporting.
 * 🍩 `donutcluster-AS138995` — Novel DonutLoader variant. Custom stego C2 on TCP/7070, reflective DLL loader, recoverable CFG1 config, 14-host infrastructure cluster. YARA, Suricata, IOCs.
 * 🐻 🇺🇦 `gamybear-cert-ua-18329-analysis` — 15+ binary-level corrections to CERT-UA#18329 GAMYBEAR. Persistence misattribution, TLS implementation failure, and IOC validation against the actual ieupdater.exe loader.
 * 👻 `ghost-cring-defender-toolkit` — Defender toolkit derived from binary-level RE of CISA AA25-050A Cring.exe. 25+ documented advisory gaps including MD5-only hash representation, missing binary-internal IOCs, and family-level TTPs not enacted by the analyzed sample. Multi-platform detection (YARA, Sigma, KQL, SPL, EQL, FQL), STIX 2.1 IOC bundle, and MITRE ATT&CK Navigator gap layer.
